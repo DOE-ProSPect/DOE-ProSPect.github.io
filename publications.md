@@ -52,5 +52,4 @@ Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diag
 
 Watkins J., I. Tezaur, and I. Demeshko I. 2020: [A Study on the Performance Portability of the Finite Element Assembly Process Within the Albany Land Ice Solver](https://doi.org/10.1007/978-3-030-30705-9_16). In: van Brummelen H., Corsini A., Perotto S., Rozza G. (eds) *Numerical Methods for Flows. Lecture Notes in Computational Science and Engineering*, **132**, Springer, Cham., doi:10.1007/978-3-030-30705-9_16.
 
-
-
+Begeman, C. B., X. Asay-Davis, and L. R. Van Roekel. 2022: [Ice-Shelf Ocean Boundary Layer Dynamics from Large-Eddy Simulations](https://doi.org/10.5194/tc-16-277-2022). *The Cryosphere*, **16**(1), 277–295. doi:10.5194/tc-16-277-2022.

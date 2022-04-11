@@ -66,5 +66,5 @@ Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021: Persistent, Ext
 
 Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022: The contribution of Humboldt Glacier, North Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat}](https://tc.copernicus.org/preprints/tc-2022-20/). *The Cryosphere Discussions*, doi:10.5194/tc-2022-20.
 
-Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2022. [Performance portable ice-sheet modeling with MALI](https://www.researchgate.net/publication/359831946_Performance_portable_ice-sheet_modeling_with_MALI?channel=doi&linkId=6250cb98b0cee02d695b9cb1&showFulltext=true), doi:10.13140/RG.2.2.17763.63526 (in preparation).
+Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2022. [Performance portable ice-sheet modeling with MALI](https://www.researchgate.net/publication/359831946_Performance_portable_ice-sheet_modeling_with_MALI?channel=doi&linkId=6250cb98b0cee02d695b9cb1&showFulltext=true), doi:10.13140/RG.2.2.17763.63526 (in preparation). 
 

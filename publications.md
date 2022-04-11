@@ -52,5 +52,19 @@ Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diag
 
 Watkins J., I. Tezaur, and I. Demeshko I. 2020: [A Study on the Performance Portability of the Finite Element Assembly Process Within the Albany Land Ice Solver](https://doi.org/10.1007/978-3-030-30705-9_16). In: van Brummelen H., Corsini A., Perotto S., Rozza G. (eds) *Numerical Methods for Flows. Lecture Notes in Computational Science and Engineering*, **132**, Springer, Cham., doi:10.1007/978-3-030-30705-9_16.
 
+Heinlein, A., M. Perego, and S. Rajamankickam. 2021. [FROSch Preconditioners for Land Ice Simulations of Greenland and Antarctica](https://kups.ub.uni-koeln.de/30668/). Technical Report, University of Cologne. 
 
+Hartland, T. and M. Perego. 2021. Accounting for rehology uncertainty when inferring the basal sliding coefficient for Humboldt glacier]. Technical Report, Sandia National Laboratories.
+
+Begeman, C.B., X. Asay-Davis, and L. Van Roekel. 2022. [Ice-shelf ocean boundary layer dynamics from large-eddy simulations](https://doi.org/10.5194/tc-16-277-2022). *Cryosphere*, **16**(1), 277–295, doi:10.5194/tc-16-277-2022.
+
+Kachuck, S.B., M. Whitcomb, J.N. Bassis, D.F. Martin, and S.F. Price. 2022. [Simulating ice-shelf extent using damage mechanics](https://doi.org/10.1017/jog.2022.12). *Journal of Glaciology*, doi:10.1017/jog.2022.12.
+
+Schneider, A.M., C.S. Zender, and S.F. Price. 2022. [More Realistic Intermediate Depth Dry Firn Densification in the Energy Exascale Earth System Model (E3SM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002542). *Journal of Advances in Modeling Earth Systems*, **14**, e2021MS002542, 1–21, doi:10.1029/2021ms002542.
+
+Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021: Persistent, Extensive Channelized Drainage Modeled Beneath Thwaites Glacier, West Antarctica](https://tc.copernicus.org/preprints/tc-2021-338/). *The Cryosphere Discussions*, 3407–3424, doi:10.5194/tc-2021-338.
+
+Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022: The contribution of Humboldt Glacier, North Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat}](https://tc.copernicus.org/preprints/tc-2022-20/). *The Cryosphere Discussions*, doi:10.5194/tc-2022-20.
+
+Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2022. [Performance portable ice-sheet modeling with MALI](https://www.researchgate.net/publication/359831946_Performance_portable_ice-sheet_modeling_with_MALI?channel=doi&linkId=6250cb98b0cee02d695b9cb1&showFulltext=true), doi:10.13140/RG.2.2.17763.63526 (in preparation).
 

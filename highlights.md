@@ -30,3 +30,4 @@ In July of 2021, [Sam Kachuck was awarded a NERSC High Performance Computing Ach
 
 Courtney Shafer, a student formerly working on our project at LBNL and now pursuing her PhD in glaciology at the University of Buffalo, [has been awarded a DOE Computational Science Graduate Fellowship](http://www.buffalo.edu/news/releases/2021/07/017.html). 
 
+As part of the International Glaciological Society's weekly seminar series, Sam Kachuck gave a presentation on the modeling of damage, fracture, and calving at the front of the Pine Island and Thwaites Glaciers, using BISICLES. [That presentation can be found on the IGS youtube channel](https://www.youtube.com/watch?v=00hSpqBx5v4) (starting at 36 minutes in).  

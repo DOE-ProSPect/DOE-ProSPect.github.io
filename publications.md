@@ -46,7 +46,7 @@ Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, X. S. Asay-Davis, H. Seroussi, S. 
 
 Edwards, T. L. and 82 others. 2021: [Projected land ice contributions to 21st century sea level rise](https://www.nature.com/articles/s41586-021-03302-y). *Nature*, **593**, doi:10.1038/s41586-021-03302-y.
 
-Payne, A. J. and 63 others. 2021: [Future Sea Level Change Under Coupled Model Intercomparison Project Phase 5 and Phase 6 Scenarios From the Greenland and Antarctic Ice Sheets](https://doi.org/10.1029/2020gl091741). *Geophysical Research Letters*, ***48***(16), doi.org/10.1029/2020gl091741.
+Payne, A. J. and 63 others. 2021: [Future Sea Level Change Under Coupled Model Intercomparison Project Phase 5 and Phase 6 Scenarios From the Greenland and Antarctic Ice Sheets](https://doi.org/10.1029/2020gl091741). *Geophys. Res. Lett.*, ***48***(16), doi.org/10.1029/2020gl091741.
 
 Zhang, T., S. F. Price, M. J. Hoffman, M. Perego, and X. Asay-Davis. 2020: [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](https://tc.copernicus.org/articles/14/3407/2020/). *The Cryosphere*, **14**, 3407–3424, doi:10.5194/tc-14-3407-2020.
 

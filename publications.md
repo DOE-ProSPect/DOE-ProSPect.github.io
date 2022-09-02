@@ -62,7 +62,7 @@ Kachuck, S.B., M. Whitcomb, J.N. Bassis, D.F. Martin, and S.F. Price. 2022. [Sim
 
 Schneider, A.M., C.S. Zender, and S.F. Price. 2022. [More Realistic Intermediate Depth Dry Firn Densification in the Energy Exascale Earth System Model (E3SM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002542). *Journal of Advances in Modeling Earth Systems*, **14**, e2021MS002542, 1–21, doi:10.1029/2021ms002542.
 
-Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021. [Persistent, Extensive Channelized Drainage Modeled Beneath Thwaites Glacier, West Antarctica](https://tc.copernicus.org/preprints/tc-2021-338/). *The Cryosphere Discussions*, 3407–3424, doi:10.5194/tc-2021-338.
+Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021. [Persistent, Extensive Channelized Drainage Modeled Beneath Thwaites Glacier, West Antarctica](https://tc.copernicus.org/articles/16/3575/2022). *The Cryosphere*, **16**, 3575–3599, doi:10.5194/tc-16-3575-2022.
 
 Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022. [The contribution of Humboldt Glacier, North Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat](https://tc.copernicus.org/preprints/tc-2022-20/). *The Cryosphere Discussions*, doi:10.5194/tc-2022-20.
 

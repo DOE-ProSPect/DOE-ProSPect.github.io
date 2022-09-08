@@ -68,3 +68,4 @@ Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022. [Th
 
 Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2022. [Performance portable ice-sheet modeling with MALI](https://arxiv.org/abs/2204.04321), doi:10.13140/RG.2.2.17763.63526 (in preparation). 
 
+C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://dev-nul), *Earth and Planetary Science Letters* (in press).

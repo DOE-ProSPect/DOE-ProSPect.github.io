@@ -66,6 +66,8 @@ Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021. [Persistent, Ex
 
 Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022. [The contribution of Humboldt Glacier, North Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat](https://tc.copernicus.org/preprints/tc-2022-20/). *The Cryosphere Discussions*, doi:10.5194/tc-2022-20.
 
-Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2022. [Performance portable ice-sheet modeling with MALI](https://arxiv.org/abs/2204.04321), doi:10.13140/RG.2.2.17763.63526 (in preparation). 
+Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2023. [Performance portable ice-sheet modeling with MALI](https://doi.org/10.1177/10943420231183688), *The International Journal of High Performance Computing Applications*, doi:10.1177/10943420231183688. 
 
 C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
+
+Felden, A. M., D. F. Martin, and E. G. Ng. 2023: [SUHMO: an adaptive mesh refinement SUbglacial Hydrology MOdel v1.0](https://doi.org/10.5194/gmd-16-407-2023), *Geosci. Model Dev.*, **16**, 407–425, doi:10.5194/gmd-16-407-2023.

@@ -64,6 +64,8 @@ Schneider, A.M., C.S. Zender, and S.F. Price. 2022. [More Realistic Intermediate
 
 C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
 
+Perego, M. 2022. [Large-Scale PDE-constrained Optimization for Ice-Sheet Model Initialization](https://sinews.siam.org/Details-Page/large-scale-pde-constrained-optimization-for-ice-sheet-model-initialization). *SIAM News*.
+
 Felden, A. M., D. F. Martin, and E. G. Ng. 2023: [SUHMO: an adaptive mesh refinement SUbglacial Hydrology MOdel v1.0](https://doi.org/10.5194/gmd-16-407-2023), *Geosci. Model Dev.*, **16**, 407–425, doi:10.5194/gmd-16-407-2023.
 
 *Publications below are transitional with the ongoing SciDAC-5 [FAnSSIE](https://fanssie.github.io/) project*

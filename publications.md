@@ -62,7 +62,7 @@ Kachuck, S.B., M. Whitcomb, J.N. Bassis, D.F. Martin, and S.F. Price. 2022. [Sim
 
 Schneider, A.M., C.S. Zender, and S.F. Price. 2022. [More Realistic Intermediate Depth Dry Firn Densification in the Energy Exascale Earth System Model (E3SM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002542). *Journal of Advances in Modeling Earth Systems*, **14**, e2021MS002542, 1–21, doi:10.1029/2021ms002542.
 
-C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
+Book, C., M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
 
 Perego, M. 2022. [Large-Scale PDE-constrained Optimization for Ice-Sheet Model Initialization](https://sinews.siam.org/Details-Page/large-scale-pde-constrained-optimization-for-ice-sheet-model-initialization). *SIAM News*.
 

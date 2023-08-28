@@ -62,12 +62,29 @@ Kachuck, S.B., M. Whitcomb, J.N. Bassis, D.F. Martin, and S.F. Price. 2022. [Sim
 
 Schneider, A.M., C.S. Zender, and S.F. Price. 2022. [More Realistic Intermediate Depth Dry Firn Densification in the Energy Exascale Earth System Model (E3SM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002542). *Journal of Advances in Modeling Earth Systems*, **14**, e2021MS002542, 1–21, doi:10.1029/2021ms002542.
 
-Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2021. [Persistent, Extensive Channelized Drainage Modeled Beneath Thwaites Glacier, West Antarctica](https://tc.copernicus.org/articles/16/3575/2022). *The Cryosphere*, **16**, 3575–3599, doi:10.5194/tc-16-3575-2022.
+C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
+
+Felden, A. M., D. F. Martin, and E. G. Ng. 2023: [SUHMO: an adaptive mesh refinement SUbglacial Hydrology MOdel v1.0](https://doi.org/10.5194/gmd-16-407-2023), *Geosci. Model Dev.*, **16**, 407–425, doi:10.5194/gmd-16-407-2023.
+
+*Publications below are transitional with the ongoing SciDAC-5 [FAnSSIE](https://fanssie.github.io/) project*
+
+Hager, A.O., M.J. Hoffman, S.F. Price, and D.M. Schroeder. 2022. [Persistent, Extensive Channelized Drainage Modeled Beneath Thwaites Glacier, West Antarctica](https://tc.copernicus.org/articles/16/3575/2022). *The Cryosphere*, **16**, 3575–3599, doi:10.5194/tc-16-3575-2022.
 
 Hillebrand, T.R., M.J. Hoffman, M. Perego, S.F. Price, and I.M. Howat. 2022. [The contribution of Humboldt Glacier, North Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat](https://tc.copernicus.org/preprints/tc-2022-20/). *The Cryosphere Discussions*, doi:10.5194/tc-2022-20.
 
 Watkins, J., M. Carlson, K. Shan, I. Tezaur, M. Perego, L. Bertagna, C. Kao, M.J. Hoffman, and S.F. Price. 2023. [Performance portable ice-sheet modeling with MALI](https://doi.org/10.1177/10943420231183688), *The International Journal of High Performance Computing Applications*, doi:10.1177/10943420231183688. 
 
-C. Book, M. Hoffman, S. Kachuck, S. Price, T. Hillebrand, M. Perego, J. Bassis. 2022. [Sensitivity of Coupled Solid Earth - Ice Sheet Modeling of Thwaites Glacier to Coupling Timescale and Earth Rheology](https://www.sciencedirect.com/science/article/pii/S0012821X22004344), *Earth and Planetary Science Letters*, **597**, 117798, doi:10.1016/j.epsl.2022.117798.
+Carlson, M., J. Watkins, I. Tezaur. 2023. [Automatic performance tuning for Albany Land Ice](https://www.sciencedirect.com/science/article/pii/S0377042723001668?via%3Dihub), *Journal of Computational and Applied Mathematics*, **425**(115037), doi.org/10.1016/j.cam.2023.115222.
 
-Felden, A. M., D. F. Martin, and E. G. Ng. 2023: [SUHMO: an adaptive mesh refinement SUbglacial Hydrology MOdel v1.0](https://doi.org/10.5194/gmd-16-407-2023), *Geosci. Model Dev.*, **16**, 407–425, doi:10.5194/gmd-16-407-2023.
+QiZhi, H., M. Perego, A.A. Howard, G.E. Karniadakis, and P. Stinis. 2023. [A Hybrid Deep Neural Operator/Finite Element Method for Ice-Sheet Modeling](https://www.sciencedirect.com/science/article/pii/S0021999123005235?via%3Dihub), *Journal of Computational Physics*, doi.org/10.1016/j.jcp.2023.112428
+
+Reese, W., J. Hart, B. van Bloemen Waanders, M. Perego, J. Jakeman, and A. Saibaba. 2022. [Hyper-Differential Sensitivity Analysis in the Context of Bayesian Inference Applied to Ice-Sheet Problems](https://www.begellhouse.com/journals/uncertainty-quantification.html) arXiv, *International Journal for Uncertainty Quantification* (in press).
+
+Howard, A.A., M. Perego, G.E. Karniadakis, and P. Stinis. 2023. [Multifidelity Deep Operator Networks](https://www.sciencedirect.com/journal/journal-of-computational-physics), arXiv, *Journal of Computational Physics* (in press).
+
+Hartland, T., G. Stadler, M. Perego, K. Liegeois, and N. Petra. 2023. [Hierarchical Off-Diagonal Low-Rank Approximation of Hessians in Inverse Problems, with Application to Ice Sheet Model Initializaiton](https://iopscience.iop.org/article/10.1088/1361-6420/acd719), *Inverse Problems*, **39**(085006), doi.org/10.1088/1361-6420/acd719.
+
+Liegeois, K., M. Perego, and T. Hartland. 2023. [PyAlbany: A Python Interface to the C++ Multiphysics Solver Albany](https://www.sciencedirect.com/science/article/pii/S0377042722006355?via%3Dihub), *Journal of Computational and Applied Mathematics*, **425**(115037), doi.org/10.1016/j.cam.2022.115037.
+
+
+*Last updated Aug. 28, 2023*
